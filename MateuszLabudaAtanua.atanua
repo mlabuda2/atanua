@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Atanua Version="Atanua/Win32 1.2.110613 - Trial Version" ChipCount="13" WireCount="13" key="110947" scale="16">
+    <Chip Name="LED (red)" xpos="1933312" ypos="655360" rot="0" key="125828" />
+    <Chip Name="logic NOT" xpos="294912" ypos="688128" rot="0" key="238473" />
+    <Chip Name="button (&apos;a&apos;)" xpos="98304" ypos="458752" rot="0" key="229302" />
+    <Chip Name="button (&apos;b&apos;)" xpos="98304" ypos="655360" rot="0" key="224326" />
+    <Chip Name="button (&apos;c&apos;)" xpos="98304" ypos="884736" rot="0" key="218156" />
+    <Chip Name="button (&apos;d&apos;)" xpos="98304" ypos="1114112" rot="0" key="179112" />
+    <Chip Name="logic NOT" xpos="294912" ypos="884736" rot="0" key="158566" />
+    <Chip Name="logic NOT" xpos="294912" ypos="458752" rot="0" key="148650" />
+    <Chip Name="logic NOT" xpos="294912" ypos="1114112" rot="0" key="374708" />
+    <Chip Name="logic OR" xpos="1507328" ypos="753664" rot="0" key="102227" />
+    <Chip Name="logic AND" xpos="786432" ypos="524288" rot="0" key="120088" />
+    <Chip Name="logic AND" xpos="819200" ypos="1015808" rot="0" key="44668" />
+    <Chip Name="logic OR" xpos="1114112" ypos="884736" rot="0" key="6532" />
+    <Wire chip1="1" pad1="0" chip2="3" pad2="0" key="185148" />
+    <Wire chip1="6" pad1="0" chip2="4" pad2="0" key="301357" />
+    <Wire chip1="8" pad1="0" chip2="5" pad2="0" key="298523" />
+    <Wire chip1="7" pad1="0" chip2="2" pad2="0" key="499735" />
+    <Wire chip1="10" pad1="2" chip2="9" pad2="0" key="115580" />
+    <Wire chip1="10" pad1="1" chip2="6" pad2="1" key="81082" />
+    <Wire chip1="10" pad1="0" chip2="7" pad2="1" key="71735" />
+    <Wire chip1="6" pad1="1" chip2="11" pad2="0" key="64043" />
+    <Wire chip1="11" pad1="1" chip2="8" pad2="1" key="58356" />
+    <Wire chip1="12" pad1="2" chip2="9" pad2="1" key="2763" />
+    <Wire chip1="12" pad1="1" chip2="11" pad2="2" key="30176" />
+    <Wire chip1="12" pad1="0" chip2="1" pad2="1" key="31946" />
+    <Wire chip1="9" pad1="2" chip2="0" pad2="0" key="256259" />
+</Atanua>
